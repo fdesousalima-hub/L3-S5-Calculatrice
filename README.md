@@ -1,12 +1,6 @@
 Rapport du projet calculatrice évoluée - Groupe 99
 ===
 
-## Identifiants
-
-DE SOUSA LIMA Fabio - 71802806
-
-AMORIM Pierre - 71800495
-
 ## Fonctionnalités
 
 Notre programme est une calculatrice qui utilise la syntaxe polonaise inversée (RPN)
